@@ -1,0 +1,65 @@
+body{
+background-color: aquamarine !important;
+height: 100vh  !important;
+max-width: 100%  !important;
+}
+
+.encabezado {
+background-color: blueviolet;
+width: 100%;
+}
+
+.footer {
+background-color: coral;
+font-size: 2rem;
+}
+
+.icono {
+height: 50 px;
+}
+
+.seccion1 {
+margin-top: 80px;
+font-family: "Lobster Two", cursive;
+font-size: 1,5 rem;
+}
+
+.seccion2 {
+margin-bottom: 200 px;
+margin-top: 200 px;
+font-family: "Lobster Two", cursive;
+}
+
+.lista1, .lista2 {
+font-family: "Playball", cursive !important;
+font-size: 3rem;
+}
+
+.lista3, .lista4 {
+font-family: "Lobster Two", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 1.8rem;
+}
+
+.programador{
+width: 100%;
+margin-top: 100px;
+}
+
+.html {
+width: 100%;
+}
+
+.leer {
+width: 100%;
+margin-top: 150 px;
+}
+
+.lenguajes {
+width: 100%;
+margin-top: 150px;
+}
+
+#git, #linkedin, #email {
+cursor: pointer;
+font-size: 1rem;
+}
